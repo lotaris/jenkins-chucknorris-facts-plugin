@@ -1,3 +1,7 @@
+### :warning: Unmaintained.
+
+---
+
 # jenkins-chucknorris-facts-plugin
 
 > A Jenkins plugin to retrieve Chuck Norris facts in the purpose to send them by mail as a sentence of the day.
